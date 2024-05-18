@@ -1,3 +1,3 @@
 # Investment-Calculator
-> npm i
-> npm run dev
+<p> npm i</p>
+<p> npm run dev </p>
